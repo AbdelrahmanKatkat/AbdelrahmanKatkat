@@ -1,4 +1,5 @@
 # Hello, I'm Abdelrahman Youssry 👋
+![](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4969973a-a026-44ed-9a72-181fa25b21f4%2F706c2f21-f0e6-40d3-866f-970ba6efa537%2Ffotor-202402241869.png?table=block&id=bda5ef3d-8fdd-44b6-b7c2-7c2cbbb3e5ab&spaceId=4969973a-a026-44ed-9a72-181fa25b21f4&width=250&userId=00353bb9-575f-42bf-87b4-e8171e29cb91&cache=v2)
 
 **Machine Learning Engineer | Data Scientist | AI Enthusiast**
 
