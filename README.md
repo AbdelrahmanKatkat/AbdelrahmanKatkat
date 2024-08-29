@@ -82,9 +82,7 @@ I'm passionate about exploring the intersection of AI and real-world application
 
 ![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanKatkat&show_icons=true&theme=radical)
 
-## 📝 Latest Projects - Blog Post
-
-- [Blog](https://www.notion.so/3119fcca102b4294bb8c34c34dc90b01?v=24ef2bd2f0894e53b2e59dd1591f25a0)
-- [Portfolio](https://www.notion.so/Keep-Moving-Forward-bda5ef3d8fdd44b6b7c27c2cbbb3e5ab)
+## 📝 Latest Blog Post: [Blog](https://www.notion.so/3119fcca102b4294bb8c34c34dc90b01?v=24ef2bd2f0894e53b2e59dd1591f25a0)
+## 📝 My Portfolio: [Portfolio](https://www.notion.so/Keep-Moving-Forward-bda5ef3d8fdd44b6b7c27c2cbbb3e5ab)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=AbdelrahmanKatkat&color=blue)
