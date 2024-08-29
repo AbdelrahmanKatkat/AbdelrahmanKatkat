@@ -86,4 +86,4 @@ I'm passionate about exploring the intersection of AI and real-world application
 
 - [Understanding Transformers in NLP](https://yourblog.com/understanding-transformers)
 
-![Visitor Count][((https://komarev.com/ghpvc/?username=AbdelrahmanKatkat&color=blue))](https://komarev.com/ghpvc/?username=AbdelrahmanKatkat&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=AbdelrahmanKatkat&color=blue)
