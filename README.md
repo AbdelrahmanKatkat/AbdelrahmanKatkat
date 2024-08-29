@@ -24,30 +24,26 @@ I'm passionate about exploring the intersection of AI and real-world application
 
 ## 🔍 Featured Projects
 
-### [Smart Home Energy Saver](https://github.com/yourusername/smart-home-energy-saver)
-**Predictive modeling to optimize energy consumption in smart homes.**
-- Utilized time series forecasting and reinforcement learning to reduce energy costs by 15%.
-- Integrated with IoT devices using TensorFlow and OpenAI Gym.
-
-### [NLP Sentiment Analyzer](https://github.com/yourusername/nlp-sentiment-analyzer)
-**A deep learning model for sentiment analysis on social media platforms.**
-- Developed using BERT and fine-tuned on a custom dataset of 1 million tweets.
-- Achieved 92% accuracy in predicting sentiment polarity.
-
-### [Art Classifier - Omdena Project](https://github.com/yourusername/art-classifier)
+### [Art Classifier - Budget Collector]([https://github.com/yourusername/art-classifier](https://sudsy-flight-bed.notion.site/Budget-Collector-8669ec501fe748009555d98ecdd63b9b?pvs=4))
 **Developed an art classifier using Qwen Chat VL and EfficientNet B5.**
 - Extracted art descriptions and tags with Qwen Chat VL.
 - Achieved 65% accuracy in style and genre classification.
 
-### [Digital Likeness Solution - Paradox House](https://github.com/yourusername/digital-likeness-solution)
+### [Digital Likeness Solution - Paradox House]([https://github.com/yourusername/digital-likeness-solution](https://sudsy-flight-bed.notion.site/Digital-Likeness-0da38f4748f14a359c54e0e3092e360e?pvs=4))
 **Contributed to developing a digital avatar with dynamic movements.**
 - Utilized ComfyUI and motion diffusion models to generate a responsive avatar.
 - Enabled text-based control for avatar movements.
 
-### [Weld Defect Detection - Reachbots Automation](https://github.com/yourusername/weld-defect-detection)
+### [Weld Defect Detection - Reachbots Automation]([https://github.com/yourusername/weld-defect-detection](https://sudsy-flight-bed.notion.site/Weldment-Defect-Detection-2777ee646df24365954bc0fcbd82dc0a?pvs=4))
 **Developed an AI model for detecting weld defects.**
 - Used VGG16, Random Forest, and SVM to achieve 88% accuracy.
 - Implemented robust defect detection in industrial environments.
+
+### [Falcon 7B - Abu Dhabi Open Data]([[https://github.com/yourusername/weld-defect-detection](https://sudsy-flight-bed.notion.site/Weldment-Defect-Detection-2777ee646df24365954bc0fcbd82dc0a?pvs=4](https://sudsy-flight-bed.notion.site/Chat-Bot-Falcon-7b-204f4107e1ad4f9c84ee44b30d746bef?pvs=4)))
+**Developed an AI model for detecting weld defects.**
+- Developed a Chatbot integrated with the Abu Dhabi Open Data website to accept user queries in both text and voice formats.
+- Utilized an LLM based on Falcon 7B and Retrieval-Augmented Generation (RAG) for enhanced query handling.
+- Fine-tuned the model with LoRA and served as Project Coordinator, facilitating communication and collaboration among teams.
 
 ## 💼 Professional Experience
 
