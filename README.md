@@ -39,7 +39,7 @@ I'm passionate about exploring the intersection of AI and real-world application
 - Used VGG16, Random Forest, and SVM to achieve 88% accuracy.
 - Implemented robust defect detection in industrial environments.
 
-### [Falcon 7B - Abu Dhabi Open Data](https://sudsy-flight-bed.notion.site/Weldment-Defect-Detection-2777ee646df24365954bc0fcbd82dc0a?pvs=4](https://sudsy-flight-bed.notion.site/Chat-Bot-Falcon-7b-204f4107e1ad4f9c84ee44b30d746bef?pvs=4)
+### [Falcon 7B - Abu Dhabi Open Data](https://sudsy-flight-bed.notion.site/Chat-Bot-Falcon-7b-204f4107e1ad4f9c84ee44b30d746bef?pvs=4)
 **Developed an Chatbot to interact with Open Data Webstie.**
 - Developed a Chatbot integrated with the Abu Dhabi Open Data website to accept user queries in both text and voice formats.
 - Utilized an LLM based on Falcon 7B and Retrieval-Augmented Generation (RAG) for enhanced query handling.
