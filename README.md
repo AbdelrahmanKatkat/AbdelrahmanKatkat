@@ -71,7 +71,7 @@ I'm passionate about exploring the intersection of AI and real-world application
 
 ### Soliya | Apr 2020 - Present | Remote
 - Engaged in global discussions to gain insights into critical global issues.
-- Developed global awareness and critical thinking through diverse cultural collaboration.
+- Developed global awareness and critical thinking through diverse cultural collaboration. 
 
 ## 📫 Let's Connect!
 
