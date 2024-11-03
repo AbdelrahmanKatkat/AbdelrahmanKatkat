@@ -13,7 +13,7 @@ I'm passionate about exploring the intersection of AI and real-world application
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
-<div align="center">
+<div align="align">
     
 
 <img src="skills/c.png" height="40" width="40" style="border-radius: 10px;">
@@ -34,7 +34,7 @@ I'm passionate about exploring the intersection of AI and real-world application
 <img src="skills/pycharm.jpeg" height="40" width="40" style="border-radius: 10px;">
 </div>
 
-<div align="center"><br/>
+<div align="align"><br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 
 
