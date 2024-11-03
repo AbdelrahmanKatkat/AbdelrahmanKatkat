@@ -11,9 +11,25 @@
 <img src="https://media.giphy.com/media/57ZONYwnLOKVgLuApK/giphy.gif" width="30" height="30" align="center"/> Alexandria, Egypt
 </h3>
 
-
-
 Welcome to my GitHub profile! 🎉 I'm a passionate Machine Learning Engineer with a strong background in developing innovative AI solutions, specializing in deep learning, natural language processing, and computer vision. 🌟 With a degree in Mechanical Engineering, I've transitioned into this exciting field where I blend my technical skills with creativity to tackle complex problems. Here, you'll find a collection of my projects, research, and contributions to the open-source community. 📚 I'm eager to explore the intersection of AI and real-world applications and collaborate on exciting projects that push the boundaries of what's possible in machine learning! 🚀✨
+
+<p align="center">
+  <br/>
+  <p align="center">  
+  <a https://www.linkedin.com/in/abdelrahman-katkat-04a94b211/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/u/?authuser=vidhidoesnotreply@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/vvidhig/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
+</p>
+
+
+
 
 ## 🛠️ Technical Stack
 
@@ -135,7 +151,7 @@ Welcome to my GitHub profile! 🎉 I'm a passionate Machine Learning Engineer wi
 ## 📝 Latest Blog Post: [Blog](https://www.notion.so/3119fcca102b4294bb8c34c34dc90b01?v=24ef2bd2f0894e53b2e59dd1591f25a0)
 ## 📝 My Portfolio: [Portfolio](https://www.notion.so/Keep-Moving-Forward-bda5ef3d8fdd44b6b7c27c2cbbb3e5ab)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=AbdelrahmanKatkat&color=blue)
+
 
 
 <p align="center" width="100%" id="footer">
