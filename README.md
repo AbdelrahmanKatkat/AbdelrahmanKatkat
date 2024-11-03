@@ -84,7 +84,7 @@ Welcome to my GitHub profile! 🎉 I'm a passionate Machine Learning Engineer wi
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
-<div align="center">
+<div align="align">
   
 ## 🔍 Featured Projects
 
@@ -111,7 +111,7 @@ Welcome to my GitHub profile! 🎉 I'm a passionate Machine Learning Engineer wi
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
-<div align="center">
+<div align="align">
   
 ## 🌱 Volunteering Work
 
@@ -124,7 +124,7 @@ Welcome to my GitHub profile! 🎉 I'm a passionate Machine Learning Engineer wi
 - Developed global awareness and critical thinking through diverse cultural collaboration. 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
-<div align="center">
+<div align="align">
 
 ## 📊 GitHub Statistics
 
