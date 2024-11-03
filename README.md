@@ -7,12 +7,11 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdelrahmanKatkat&label=Profile%20views&color=0e75b6&style=flat" alt="vvidhig" height="30" width="130"></p>
   </div>
 <img src="https://media.giphy.com/media/LEe5yo2E9Fi3FmuEPK/giphy.gif" width="30" height="30" align="center"/> Abdelrahman Katkat |
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/> Machine Learning Engineer | 
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/> Machine Learning Engineer |   AI Enthusiast
 <img src="https://media.giphy.com/media/57ZONYwnLOKVgLuApK/giphy.gif" width="30" height="30" align="center"/> Alexandria, Egypt
 </h3>
 
 
-**Machine Learning Engineer | Data Scientist | AI Enthusiast**
 
 Welcome to my GitHub profile! 🎉 I'm a passionate Machine Learning Engineer with a strong background in developing innovative AI solutions, specializing in deep learning, natural language processing, and computer vision. 🌟 With a degree in Mechanical Engineering, I've transitioned into this exciting field where I blend my technical skills with creativity to tackle complex problems. Here, you'll find a collection of my projects, research, and contributions to the open-source community. 📚 I'm eager to explore the intersection of AI and real-world applications and collaborate on exciting projects that push the boundaries of what's possible in machine learning! 🚀✨
 
