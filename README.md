@@ -82,6 +82,10 @@ Welcome to my GitHub profile! 🎉 I'm a passionate Machine Learning Engineer wi
 - Developed predictive models using Ansys NTGK for forecasting battery temperatures.
 - Designed and tested cooling systems for battery packs.
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+<div align="center">
+  
 ## 🔍 Featured Projects
 
 ### [ Art Classifier - Budget Collector ](https://sudsy-flight-bed.notion.site/Budget-Collector-8669ec501fe748009555d98ecdd63b9b?pvs=4)
@@ -95,7 +99,7 @@ Welcome to my GitHub profile! 🎉 I'm a passionate Machine Learning Engineer wi
 - Enabled text-based control for avatar movements.
 
 ### [ Weld Defect Detection - Reachbots Automation ](https://sudsy-flight-bed.notion.site/Weldment-Defect-Detection-2777ee646df24365954bc0fcbd82dc0a?pvs=4)
-** Developed an AI model for detecting weld defects. **
+**Developed an AI model for detecting weld defects.**
 - Used VGG16, Random Forest, and SVM to achieve 88% accuracy.
 - Implemented robust defect detection in industrial environments.
 
@@ -106,7 +110,9 @@ Welcome to my GitHub profile! 🎉 I'm a passionate Machine Learning Engineer wi
 - Fine-tuned the model with LoRA and served as Project Coordinator, facilitating communication and collaboration among teams.
 
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+<div align="center">
+  
 ## 🌱 Volunteering Work
 
 ### Bayt El Hayah | Feb 2021 - Present | Alexandria
@@ -117,10 +123,8 @@ Welcome to my GitHub profile! 🎉 I'm a passionate Machine Learning Engineer wi
 - Engaged in global discussions to gain insights into critical global issues.
 - Developed global awareness and critical thinking through diverse cultural collaboration. 
 
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/abdelrahman-katkat-04a94b211)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:i.abdelrahmanu3@gmail.com)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+<div align="center">
 
 ## 📊 GitHub Statistics
 
@@ -153,9 +157,6 @@ Welcome to my GitHub profile! 🎉 I'm a passionate Machine Learning Engineer wi
 <div align="align">
 
 
-
-## 📝 Latest Blog Post: [Blog](https://www.notion.so/3119fcca102b4294bb8c34c34dc90b01?v=24ef2bd2f0894e53b2e59dd1591f25a0)
-## 📝 My Portfolio: [Portfolio](https://www.notion.so/Keep-Moving-Forward-bda5ef3d8fdd44b6b7c27c2cbbb3e5ab)
 
 
 
