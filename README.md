@@ -9,18 +9,35 @@ Welcome to my GitHub profile! I'm a Machine Learning Engineer with a strong back
 
 I'm passionate about exploring the intersection of AI and real-world applications. With a degree in Mechanical Engineering and a deep interest in artificial intelligence, I've transitioned into a career where I blend my technical skills with creativity to solve complex problems. I'm always eager to collaborate on exciting projects and contribute to the growing field of machine learning.
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Stack
 
-- **Programming Languages:** Python, C, PostgreSQL, MATLAB
-- **Frameworks & Libraries:** PyTorch, Keras, TensorFlow, scikit-learn
-- **Machine Learning & Deep Learning Algorithms:**
-  - **Neural Networks:** ANN, CNN, RNN, LSTM, GANs
-  - **Models:** Stable Diffusion Models, SVM, KNN, Linear Regression, Logistic Regression, Random Forest, Decision Trees
-- **Technologies:**
-  - **DVC & Version Control:** Git, GitHub, DagsHub
-  - **Other Tools:** Notion, ActiTime, Agile/Jira
-- **Soft Skills:** Consistency, Learning Potential, Teamwork, Organization, Flexibility, Responsibility, Multitasking
-- **Languages:** Arabic, English
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+<div align="center">
+    
+# Tech Stack
+
+<img src="skills/c.png" height="40" width="40" style="border-radius: 10px;">
+
+<img src="skills/git.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/github.jpg" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/mysql.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/numpy.webp" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/opencv.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/pandas.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/python.webp" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/pytorch.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/scipy.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/seaborn.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/sklearn.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/tensorflow.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/vscode.jpg" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/pycharm.jpeg" height="40" width="40" style="border-radius: 10px;">
+</div>
+
+<div align="center"><br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+
 
 ## 🔍 Featured Projects
 
