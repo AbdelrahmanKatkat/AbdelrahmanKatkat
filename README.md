@@ -65,67 +65,29 @@ Welcome to my GitHub profile! 🎉 I'm a passionate Machine Learning Engineer wi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 
 
-<style>
-  .project-box {
-    border: 2px solid #4CAF50; /* Border color */
-    border-radius: 10px; /* Rounded corners */
-    padding: 15px; /* Inner spacing */
-    margin: 15px 0; /* Outer spacing */
-    background-color: #f9f9f9; /* Background color */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow effect */
-  }
-  .project-title {
-    color: #4CAF50; /* Title color */
-    font-weight: bold; /* Bold title */
-  }
-</style>
 
-<h2>🔍 Featured Projects</h2>
+## 🔍 Featured Projects
 
-<div class="project-box">
-  <h3 class="project-title">
-    <a href="https://sudsy-flight-bed.notion.site/Budget-Collector-8669ec501fe748009555d98ecdd63b9b?pvs=4">Art Classifier - Budget Collector</a>
-  </h3>
-  <strong>Developed an art classifier using Qwen Chat VL and EfficientNet B5.</strong>
-  <ul>
-    <li>Extracted art descriptions and tags with Qwen Chat VL.</li>
-    <li>Achieved 65% accuracy in style and genre classification.</li>
-  </ul>
-</div>
+### [ Art Classifier - Budget Collector ](https://sudsy-flight-bed.notion.site/Budget-Collector-8669ec501fe748009555d98ecdd63b9b?pvs=4)
+** Developed an art classifier using Qwen Chat VL and EfficientNet B5. **
+- Extracted art descriptions and tags with Qwen Chat VL.
+- Achieved 65% accuracy in style and genre classification.
 
-<div class="project-box">
-  <h3 class="project-title">
-    <a href="https://sudsy-flight-bed.notion.site/Digital-Likeness-0da38f4748f14a359c54e0e3092e360e?pvs=4">Digital Likeness Solution - Paradox House</a>
-  </h3>
-  <strong>Contributed to developing a digital avatar with dynamic movements.</strong>
-  <ul>
-    <li>Utilized ComfyUI and motion diffusion models to generate a responsive avatar.</li>
-    <li>Enabled text-based control for avatar movements.</li>
-  </ul>
-</div>
+### [ Digital Likeness Solution - Paradox House ](https://sudsy-flight-bed.notion.site/Digital-Likeness-0da38f4748f14a359c54e0e3092e360e?pvs=4)
+** Contributed to developing a digital avatar with dynamic movements. **
+- Utilized ComfyUI and motion diffusion models to generate a responsive avatar.
+- Enabled text-based control for avatar movements.
 
-<div class="project-box">
-  <h3 class="project-title">
-    <a href="https://sudsy-flight-bed.notion.site/Weldment-Defect-Detection-2777ee646df24365954bc0fcbd82dc0a?pvs=4">Weld Defect Detection - Reachbots Automation</a>
-  </h3>
-  <strong>Developed an AI model for detecting weld defects.</strong>
-  <ul>
-    <li>Used VGG16, Random Forest, and SVM to achieve 88% accuracy.</li>
-    <li>Implemented robust defect detection in industrial environments.</li>
-  </ul>
-</div>
+### [ Weld Defect Detection - Reachbots Automation ](https://sudsy-flight-bed.notion.site/Weldment-Defect-Detection-2777ee646df24365954bc0fcbd82dc0a?pvs=4)
+** Developed an AI model for detecting weld defects. **
+- Used VGG16, Random Forest, and SVM to achieve 88% accuracy.
+- Implemented robust defect detection in industrial environments.
 
-<div class="project-box">
-  <h3 class="project-title">
-    <a href="https://sudsy-flight-bed.notion.site/Chat-Bot-Falcon-7b-204f4107e1ad4f9c84ee44b30d746bef?pvs=4">Falcon 7B - Abu Dhabi Open Data</a>
-  </h3>
-  <strong>Developed a Chatbot to interact with Open Data Website.</strong>
-  <ul>
-    <li>Developed a Chatbot integrated with the Abu Dhabi Open Data website to accept user queries in both text and voice formats.</li>
-    <li>Utilized an LLM based on Falcon 7B and Retrieval-Augmented Generation (RAG) for enhanced query handling.</li>
-    <li>Fine-tuned the model with LoRA and served as Project Coordinator, facilitating communication and collaboration among teams.</li>
-  </ul>
-</div>
+### [ Falcon 7B - Abu Dhabi Open Data ](https://sudsy-flight-bed.notion.site/Chat-Bot-Falcon-7b-204f4107e1ad4f9c84ee44b30d746bef?pvs=4)
+** Developed a Chatbot to interact with Open Data Website. **
+- Developed a Chatbot integrated with the Abu Dhabi Open Data website to accept user queries in both text and voice formats.
+- Utilized an LLM based on Falcon 7B and Retrieval-Augmented Generation (RAG) for enhanced query handling.
+- Fine-tuned the model with LoRA and served as Project Coordinator, facilitating communication and collaboration among teams.
 
 ## 💼 Professional Experience
 
