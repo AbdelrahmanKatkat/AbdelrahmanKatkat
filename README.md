@@ -80,9 +80,6 @@ I'm passionate about exploring the intersection of AI and real-world application
 
 ## 📊 GitHub Statistics
 
-![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanKatkat&show_icons=true&theme=radical)
-
-
 <table align="center">  
     <tr><td align="center">
     <a href="/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanKatkat&hide_border=true&layout=compact&theme=radical" width="500"/></a>
