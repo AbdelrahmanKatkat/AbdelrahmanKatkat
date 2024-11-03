@@ -14,11 +14,7 @@
 
 **Machine Learning Engineer | Data Scientist | AI Enthusiast**
 
-Welcome to my GitHub profile! I'm a Machine Learning Engineer with a strong background in developing innovative AI solutions. My expertise spans across deep learning, natural language processing, and computer vision. Here, you'll find a collection of my projects, research, and contributions to the open-source community.
-
-## 🚀 About Me
-
-I'm passionate about exploring the intersection of AI and real-world applications. With a degree in Mechanical Engineering and a deep interest in artificial intelligence, I've transitioned into a career where I blend my technical skills with creativity to solve complex problems. I'm always eager to collaborate on exciting projects and contribute to the growing field of machine learning.
+Welcome to my GitHub profile! 🎉 I'm a passionate Machine Learning Engineer with a strong background in developing innovative AI solutions, specializing in deep learning, natural language processing, and computer vision. 🌟 With a degree in Mechanical Engineering, I've transitioned into this exciting field where I blend my technical skills with creativity to tackle complex problems. Here, you'll find a collection of my projects, research, and contributions to the open-source community. 📚 I'm eager to explore the intersection of AI and real-world applications and collaborate on exciting projects that push the boundaries of what's possible in machine learning! 🚀✨
 
 ## 🛠️ Technical Stack
 
