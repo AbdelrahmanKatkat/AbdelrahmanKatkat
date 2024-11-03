@@ -107,7 +107,7 @@ I'm passionate about exploring the intersection of AI and real-world application
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanKatkat&hide_border=true&theme=radical)
 </td>
-<td align="center">
+<td align="align">
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanKatkat\&hide_border=true&show_icons=true\&theme=radical)
 
@@ -122,7 +122,7 @@ I'm passionate about exploring the intersection of AI and real-world application
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 
-<div align="center">
+<div align="align">
 
 
 
@@ -130,3 +130,11 @@ I'm passionate about exploring the intersection of AI and real-world application
 ## 📝 My Portfolio: [Portfolio](https://www.notion.so/Keep-Moving-Forward-bda5ef3d8fdd44b6b7c27c2cbbb3e5ab)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=AbdelrahmanKatkat&color=blue)
+
+
+<p align="center" width="100%" id="footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=100%&section=footer&text=Have%20a%20great%20day!" width="100%">
+</p>
+
+
+
