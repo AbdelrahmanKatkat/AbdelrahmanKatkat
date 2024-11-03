@@ -78,9 +78,40 @@ I'm passionate about exploring the intersection of AI and real-world application
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/abdelrahman-katkat-04a94b211)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:i.abdelrahmanu3@gmail.com)
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 ![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanKatkat&show_icons=true&theme=radical)
+
+
+<table align="center">  
+    <tr><td align="center">
+    <a href="/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanKatkat&hide_border=true&layout=compact&theme=radical" width="500"/></a>
+</td>
+    <td align="center">
+        <a href="/"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdelrahmanKatkat&hide_border=true&theme=radical" width="500"/></a>
+    </td></tr>
+    <tr><td align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanKatkat&hide_border=true&theme=radical)
+</td>
+<td align="center">
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanKatkat\&hide_border=true&show_icons=true\&theme=radical)
+
+</td></tr>
+    <tr>
+        <td align="center" colspan="2">
+            <p align="center">
+              <a href="https://github.com/vvidhig">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdelrahmanKatkat&hide_border=true&theme=radical" alt="Vidhi's GitHub Contribution" width="1000"/>  </a>
+</p></td> </tr>
+</table>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+
+<div align="center">
+
+
 
 ## 📝 Latest Blog Post: [Blog](https://www.notion.so/3119fcca102b4294bb8c34c34dc90b01?v=24ef2bd2f0894e53b2e59dd1591f25a0)
 ## 📝 My Portfolio: [Portfolio](https://www.notion.so/Keep-Moving-Forward-bda5ef3d8fdd44b6b7c27c2cbbb3e5ab)
