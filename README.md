@@ -15,20 +15,21 @@ Welcome to my GitHub profile! 🎉 I'm a passionate Machine Learning Engineer wi
 
 <p align="center">
   <br />
-  <a href="https://www.linkedin.com/in/abdelrahman-katkat-04a94b211/">
+  <a href="https://www.linkedin.com/in/abdelrahman-katkat-04a94b211/" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> &nbsp; &nbsp;
-  <a href="https://mail.google.com/mail/u/?authuser=i.abdelrahmanu3@gmail.com">
+  </a>
+  <a href="https://mail.google.com/mail/u/?authuser=i.abdelrahmanu3@gmail.com" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> &nbsp; &nbsp;
-  <a href="https://www.notion.so/3119fcca102b4294bb8c34c34dc90b01?v=24ef2bd2f0894e53b2e59dd1591f25a0">
+  </a>
+  <a href="https://sudsy-flight-bed.notion.site/Keep-Moving-Forward-bda5ef3d8fdd44b6b7c27c2cbbb3e5ab" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/Portfolio-%23FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=black" />
+  </a>
+
+  <a href="https://www.notion.so/3119fcca102b4294bb8c34c34dc90b01?v=24ef2bd2f0894e53b2e59dd1591f25a0" style="margin-left: 20px;">
     <img src="https://img.shields.io/badge/Blog-%2300C853.svg?style=for-the-badge" />
   </a>
-  <a href="https://sudsy-flight-bed.notion.site/Keep-Moving-Forward-bda5ef3d8fdd44b6b7c27c2cbbb3e5ab">
-    <img src="https://img.shields.io/badge/Portfolio-%23FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=black" />
-  </a> &nbsp; &nbsp;
-x
 </p>
+
 
 
 
