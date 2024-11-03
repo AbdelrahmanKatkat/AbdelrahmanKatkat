@@ -15,21 +15,19 @@ Welcome to my GitHub profile! 🎉 I'm a passionate Machine Learning Engineer wi
 
 <p align="center">
   <br />
-  <p align="center">
-    <a href="https://www.linkedin.com/in/abdelrahman-katkat-04a94b211/">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a> &nbsp; &nbsp;
-    <a href="https://mail.google.com/mail/u/?authuser=i.abdelrahmanu3@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a> &nbsp; &nbsp;
-    <a href="https://sudsy-flight-bed.notion.site/Keep-Moving-Forward-bda5ef3d8fdd44b6b7c27c2cbbb3e5ab">
-      <img src="https://img.shields.io/badge/Notion-%23FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=black" />
-    </a> &nbsp; &nbsp;
-  </p>
-  <p align="center">
-    <strong>🎉 Check out my latest blog post! 📝</strong> 
-    <a href="https://www.notion.so/3119fcca102b4294bb8c34c34dc90b01?v=24ef2bd2f0894e53b2e59dd1591f25a0">Blog</a> &nbsp; &nbsp;
-  </p>
+  <a href="https://www.linkedin.com/in/abdelrahman-katkat-04a94b211/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> &nbsp; &nbsp;
+  <a href="https://mail.google.com/mail/u/?authuser=i.abdelrahmanu3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> &nbsp; &nbsp;
+  <a href="https://sudsy-flight-bed.notion.site/Keep-Moving-Forward-bda5ef3d8fdd44b6b7c27c2cbbb3e5ab">
+    <img src="https://img.shields.io/badge/Portfolio-%23FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=black" />
+  </a> &nbsp; &nbsp;
+  <strong>🎉 Check out my latest blog post! 📝</strong> 
+  <a href="https://www.notion.so/3119fcca102b4294bb8c34c34dc90b01?v=24ef2bd2f0894e53b2e59dd1591f25a0">
+    <img src="https://img.shields.io/badge/Blog-%2300C853.svg?style=for-the-badge" />
+  </a>
 </p>
 
 
