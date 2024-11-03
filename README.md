@@ -7,7 +7,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdelrahmanKatkat&label=Profile%20views&color=0e75b6&style=flat" alt="vvidhig" height="30" width="130"></p>
   </div>
 <img src="https://media.giphy.com/media/LEe5yo2E9Fi3FmuEPK/giphy.gif" width="30" height="30" align="center"/> Abdelrahman Katkat |
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/> Machine Learning Engineer |   AI Enthusiast
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/> Machine Learning Engineer / AI Enthusiast
 <img src="https://media.giphy.com/media/57ZONYwnLOKVgLuApK/giphy.gif" width="30" height="30" align="center"/> Alexandria, Egypt
 </h3>
 
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! 🎉 I'm a passionate Machine Learning Engineer wi
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
-<div align="align">
+<div align="center">
     
 
 <img src="skills/c.png" height="40" width="40" style="border-radius: 10px;">
