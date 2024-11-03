@@ -157,7 +157,10 @@ Welcome to my GitHub profile! 🎉 I'm a passionate Machine Learning Engineer wi
 <div align="align">
 
 
-
+<tr>
+    <td align="center" colspan="2"><h3 align="center">Please consider giving some of the repos a &nbsp;🌟&nbsp;!</h3></td>
+</tr></table>
+</div>
 
 
 
